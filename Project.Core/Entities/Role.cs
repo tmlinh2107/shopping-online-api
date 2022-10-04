@@ -8,5 +8,6 @@ namespace Project.Core.Entities
 {
     internal class Role
     {
+        /// TẠO BẢNG TẠO NÀY KIA 
     }
 }
